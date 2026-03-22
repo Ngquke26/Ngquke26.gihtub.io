@@ -38,6 +38,17 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
 ## Maqutywa Direct Marketing - George, Western Cape                                        
  - Name: Mthokozisi Maqutywa                                                                      
  - Cellphone number: 078 556 5769
+
+   <div style="display: flex; justify-content: space-between;">
+  <span>Left info line 1</span>
+  <span>Right info line 1</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>Left info line 2</span>
+  <span>Right info line 2</span>
+</div>
+
  
      
 
