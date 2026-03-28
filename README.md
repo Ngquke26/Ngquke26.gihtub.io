@@ -63,6 +63,7 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
  - Cellphone number: 078 556 5769
 
  ## INTERVIEW MOCK VIDEO
+ https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/c7e3705fd9fdb7f059005f897b5752bfaf48253b/WhatsApp%20Video%202026-03-28%20at%2023.00.16.mp4
  
 
  
