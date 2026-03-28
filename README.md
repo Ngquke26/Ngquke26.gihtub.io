@@ -62,8 +62,8 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
  - Name: Mthokozisi Maqutywa                                                                      
  - Cellphone number: 078 556 5769
 
+ ## INTERVIEW MOCK VIDEO
  
-</div>
 
  
      
