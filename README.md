@@ -46,7 +46,10 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
 - Creating clothing accounts,and insurance application for customers.                              
 - Explaining product details, and payment methods to customers.                                        
 - Working on strategies of reaching daily, weekly, and monthly targets.                              
-- Handling and uploading supporting documents.                                                       
+- Handling and uploading supporting documents.
+
+##PROJECTS
+-
                                                                                                      
 ## REFERENCES 
 
@@ -66,6 +69,9 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
  https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/c7e3705fd9fdb7f059005f897b5752bfaf48253b/WhatsApp%20Video%202026-03-28%20at%2023.00.16.mp4
 
  You can watch the mock video demo video [here]( https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/c7e3705fd9fdb7f059005f897b5752bfaf48253b/WhatsApp%20Video%202026-03-28%20at%2023.00.16.mp4)
+
+You can watch the mock video demo video[here](
+ https://github.com/Ngquke26/Ngquke26.gihtub.io/commit/455b9475293aecedf0b25a9040b0aa88c3278463#diff-f5775dd18e5944d210db33efb0f5d50a0291f8da91f3b6aff2cf14f1262da770)
  
 
  
