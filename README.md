@@ -49,7 +49,11 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
 - Handling and uploading supporting documents.
 
 ##PROJECTS
--
+- Masakhumzi Community Project Website
+- Personal portfolio Website
+- Student Learn Hub Application
+- Empiras Learner Dashboard Website
+  
                                                                                                      
 ## REFERENCES 
 
