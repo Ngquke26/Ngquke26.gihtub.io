@@ -48,7 +48,7 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
 - Working on strategies of reaching daily, weekly, and monthly targets.                              
 - Handling and uploading supporting documents.
 
-##PROJECTS
+## PROJECTS
 - Masakhumzi Community Project Website
 - Personal portfolio Website
 - Student Learn Hub Application
