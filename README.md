@@ -6,7 +6,7 @@
                                                                                                    
 
 <p>I am an active, and goal-driven third year student ICT, and specializing in Application Development. I am currently seeking for a Work Intergrated Learning(WIL) opportunity, where I will be applying my programming skills in solving real-life problems, with the goal of gaining more knownledge and experience, which will help me in the future to grow, and become a better experienced software developer.
-My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench.</p>
+My Technical skills are Java, Python, HTML, Javascript, CSS, and MySQL.</p>
 
 
 ## TECHNICAL SKILLS
@@ -28,21 +28,19 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySql Workbench
 - Cape Peninsula University of Technology
 - 2024-Current
   
-## WORK EXPERIENCE                                                                                      
-### Hackthon Assistant(Volunteer)                                                                         
-### Ocean Hub Hackathon |October 2025</h2>                                                               
+## WORK EXPERIENCE                                                                                                                                                              
+### Hackthon Assistant(Volunteer) |Ocean Hub Hackathon |October 2025</h2>                                                               
 - Assisting participants with problem-solving and brainstorming.                                        
 - Catering for eight teams, providing food, snacks, and drinks.                                         
 - Cleaning up the collaboration environmennt                                                     
                                                                                                    
-### Hackathon Participant                                                                                
-### Empiras Global Academy Afrihack | September 2025</h2>                                                
+                                                                                
+### Hackathon Participant| Empiras Global Academy Afrihack | September 2025</h2>                                                
 - Developed a website-based prototype solving a real-life problem.                                    
 - Collaborated with a team of eight students competing against five teams.                             
 - Presented the solution to the judges.                                                             
-                                                                                                   
-### Independent Sales Agent                                                                             
-### Maqutywa Direct Marketing |June 2023-December 2023                                                                          
+                                                                                                                                                                              
+### Independent Sales Agent| Maqutywa Direct Marketing |June 2023-December 2023                                                                          
 - Creating clothing accounts,and insurance application for customers.                              
 - Explaining product details, and payment methods to customers.                                        
 - Working on strategies of reaching daily, weekly, and monthly targets.                              
