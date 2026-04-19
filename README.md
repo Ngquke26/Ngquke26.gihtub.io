@@ -78,9 +78,10 @@ You can watch the mock video demo video[here](
 - Learning a markdown language was not a challenge to me because it is similar to one of the programming languages that I am used to, HTML.
 - Even though they have differences but I was able to use the little knowledge I gained from HTML with the knowledge I obtained from research.
 - But I still did not know where to start.
-- I then decided to started by reading the cheat sheet ,we have received from our study guides on blackboard.
-- I did some research on how to write headings, semi-headings,lists, and using emoijs from github and implementing that knowledge was not as difficult as I though it would be.
-- With all the information from cheat sheets, knowledge from You Tube, and internet at large,I managed to come up with a CV with great structure and hierarchy. 
+- I then decided to started by reading the cheat sheet ,we have received from our study guides on blackboard, but still I did not obtain as much knowledge and guidelines on where I should start.
+- I used the linkedIn learning platform for seeking guidance on where to start designing a cv and how start.
+- I gained knowledge on linkedin learning on how to write headings, semi-headings,lists, and using emoijs from github and implementing that knowledge was not as difficult as I though it would be.
+- With all the information from cheat sheets,linkedin learning,YouTube, and internet at large,I managed to come up with a CV with great structure and hierarchy. 
 
 
 ## CHALLENGES
@@ -108,6 +109,11 @@ messed up but the order of my sub headings.
 - I had to find ways of compressing a video so that it can have small size that github would allow.
 - When I managed to upload the video, it was not playing because of the size.
 - I then tried to compress it again and upload again.
+
+## LEARNING PROOF
+- LinkedIn Learning Certificate
+- LinkedIn Learning Screenshort
+- YouTube Markdown Video
 
  
 
