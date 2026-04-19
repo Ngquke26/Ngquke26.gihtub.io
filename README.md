@@ -112,8 +112,10 @@ messed up but the order of my sub headings.
 
 ## LEARNING PROOF
 - LinkedIn Learning Certificate
-- LinkedIn Learning Screenshort
-- YouTube Markdown Video
+## LinkedIn Learning Video
+- You can watch the markdown video from You Tube [here]()
+## YouTube Markdown Video
+- You can watch the markdown video from You Tube [here]()
 
  
 
