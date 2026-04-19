@@ -111,9 +111,15 @@ messed up but the order of my sub headings.
 - I then tried to compress it again and upload again.
 
 ## LEARNING PROOF
-- LinkedIn Learning Certificate
+## LinkedIn Learning Certificate
+- You can click to view [here]()
 ## LinkedIn Learning Video
-- You can watch the markdown video from You Tube [here]()
+- You can watch the markdown video from Linked in[here](https://www.linkedin.com/learning/learning-markdown-formatting-text-without-the-complexity/using-html-and-css-in-markdown?autoSkip=true&resume=false&u=2256146)
+- 
+- To view learning screenshorts,please click [here]()
+## YouTube Video
+- To view the video, you can click [here]()
+
 ## YouTube Markdown Video
 - You can watch the markdown video from You Tube [here]()
 
