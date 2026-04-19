@@ -112,7 +112,7 @@ messed up but the order of my sub headings.
 
 ## LEARNING PROOF
 ## LinkedIn Learning Certificate
-- You can click to view [here]()
+- You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity.pdf)
 ## LinkedIn Learning Video
 - You can watch the markdown video from Linked in[here](https://www.linkedin.com/learning/learning-markdown-formatting-text-without-the-complexity/using-html-and-css-in-markdown?autoSkip=true&resume=false&u=2256146)
 - 
