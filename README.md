@@ -116,8 +116,8 @@ messed up but the order of my sub headings.
   
 ## LinkedIn Learning Video
 - You can watch the markdown video from Linked in[here](https://www.linkedin.com/learning/learning-markdown-formatting-text-without-the-complexity/using-html-and-css-in-markdown?autoSkip=true&resume=false&u=2256146)
-![Learning Markdown Formatting Text Without Complexity]()
-- To view learning screenshorts,please click [here]()
+![Learning Markdown Formatting Text Without Complexity](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
+- To view learning screenshorts,please click [here](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
 ## YouTube Video
 - To view the video, you can click [here]()
 
