@@ -120,8 +120,10 @@ messed up but the order of my sub headings.
 - You can watch the markdown video from Linked in[here](https://www.linkedin.com/learning/learning-markdown-formatting-text-without-the-complexity/using-html-and-css-in-markdown?autoSkip=true&resume=false&u=2256146)
 ![Learning Markdown Formatting Text Without Complexity](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
 - To view learning screenshorts,please click [here](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
-## MARKDOWN CHEATSHEET
-![Pictures of the cheatsheet]()
+## MARKDOWN WEBSITE
+- To visit the Markdown Website[here]()
+![Pictures of the cheatsheet](<img width="1821" height="888" alt="image" src="https://github.com/user-attachments/assets/311b11dc-a14c-43e5-9d8e-844d75904bb9" />
+)
 
 ## YouTube Markdown Video
 - You can watch the markdown video from You Tube [here](https://youtu.be/iadzYtX4ERU?si=TqucPsEHWaX1_mM0)
