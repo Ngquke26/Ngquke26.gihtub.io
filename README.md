@@ -72,6 +72,7 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySQL.</p>
 
 You can watch the mock video demo video[here](
  https://github.com/Ngquke26/Ngquke26.gihtub.io/commit/455b9475293aecedf0b25a9040b0aa88c3278463#diff-f5775dd18e5944d210db33efb0f5d50a0291f8da91f3b6aff2cf14f1262da770)
+ ![Interview Mock Video](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/CV%20and%20Interview%20Video%20in%20Markdown%20Language/Screenshot%202026-04-20%20015145.png)
  
  ## REFLECTION ON WRITING CV 
 ## LEARNING JORNEY
