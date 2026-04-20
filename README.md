@@ -122,8 +122,7 @@ messed up but the order of my sub headings.
 - To view learning screenshorts,please click [here](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
 ## MARKDOWN WEBSITE
 - To visit the Markdown Website[here]()
-![Pictures of the cheatsheet](<img width="1821" height="888" alt="image" src="https://github.com/user-attachments/assets/311b11dc-a14c-43e5-9d8e-844d75904bb9" />
-)
+![Pictures of the cheatsheet](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-20%20020655.png)
 
 ## YouTube Markdown Video
 - You can watch the markdown video from You Tube [here](https://youtu.be/iadzYtX4ERU?si=TqucPsEHWaX1_mM0)
