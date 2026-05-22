@@ -70,8 +70,7 @@
  - Cellphone number: 078 556 5769
 
  ## INTERVIEW MOCK VIDEO
-
-![Interview Mock Video]( https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/CV%20and%20Interview%20Video%20in%20Markdown%20Language/Screenshot%202026-05-22%20181436.png)
+ 
 ![Interview Mock Video](CV and Interview Video in Markdown Language/Screenshot 2026-05-22 181436.png)
 To watch my video on You tube click [here](https://youtube.com/shorts/qxsUnSy0bRI?feature=share)
  
@@ -120,8 +119,8 @@ messed up but the order of my sub headings.
 
 ## LEARNING PROOF
 **LinkedIn Learning Certificate**
-- You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity.pdf)
-  ![Markdown Certification](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/CertificateOfCompletion_Learning%20Markdown%20Formatting%20Text%20without%20the%20Complexity_page-0001.jpg)
+
+  - You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity.pdf)
   
 **LinkedIn Learning Video**
 - You can watch the markdown video from Linked in[here](https://www.linkedin.com/learning/learning-markdown-formatting-text-without-the-complexity/using-html-and-css-in-markdown?autoSkip=true&resume=false&u=2256146)
