@@ -1,4 +1,5 @@
-# ATHINI NGQUKE <br>
+## ATHINI NGQUKE
+
   <p align= "right">
   📞:+27 744 665 609 <br>
   📧:222352302@mycput.ac.za <br>
@@ -69,7 +70,8 @@
  - Name: Mthokozisi Maqutywa                                                                      
  - Cellphone number: 078 556 5769
 
- ## INTERVIEW MOCK VIDEO
+   
+## INTERVIEW MOCK VIDEO
  
 ![Interview Mock Video](CV and Interview Video in Markdown Language/Screenshot 2026-05-22 181436.png)
 To watch my video on You tube click [here](https://youtube.com/shorts/qxsUnSy0bRI?feature=share)
@@ -121,7 +123,7 @@ messed up but the order of my sub headings.
 ## LEARNING PROOF
 **LinkedIn Learning Certificate**
 
-  - You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity.pdf)
+  - You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity_page-0001.jpg)
   
 **LinkedIn Learning Video**
 ![Learning Markdown Formatting Text Without Complexity](Markdown Language/Proof/Screenshot 2026-04-19 034913.png)
