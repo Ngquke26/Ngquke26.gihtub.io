@@ -76,7 +76,7 @@ To watch my video on You tube click [here](https://youtube.com/shorts/qxsUnSy0bR
  
  ## REFLECTION ON WRITING CV 
 **Learning journey**
-- Learning a markdown language was not a challenge to me because it is similar to one of the programming languages that I am used to, HTML.
+- Learning a markdown language was not a big  challenge to me because it is similar to one of the programming languages that I am used to, HTML.
 - Even though they have differences but I was able to use the little knowledge I gained from HTML with the knowledge I obtained from research.
 - But I still did not know where to start.
 - I then decided to started by reading the cheat sheet ,we have received from our study guides on blackboard, but still I did not obtain as much knowledge and guidelines on where I should start.
