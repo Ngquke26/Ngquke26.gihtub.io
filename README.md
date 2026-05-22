@@ -2,8 +2,8 @@
   <p align= "right">
   📞:+27 744 665 609 <br>
   📧:222352302@mycput.ac.za <br>
-  🏠:Woostock, Cape Town <br>
-  💼:http//github.com/Ngquke26                                                                                                 
+  🏠:Woodstock, Cape Town <br>
+  💼:http://github.com/Ngquke26                                                                                                 
 </p>
 
 <p>I am an active, and goal-driven third year student ICT, and specializing in Application Development. I am currently seeking for a Work Intergrated Learning(WIL) opportunity, where I will be applying my programming skills in solving real-life problems, with the goal of gaining more knownledge and experience, which will help me in the future to grow, and become a better experienced software developer.
@@ -74,7 +74,7 @@ You can watch the mock video demo video[here](
  ![Interview Mock Video](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/CV%20and%20Interview%20Video%20in%20Markdown%20Language/Screenshot%202026-04-20%20015145.png)
  
  ## REFLECTION ON WRITING CV 
-## LEARNING JORNEY
+### LEARNING JORNEY
 - Learning a markdown language was not a challenge to me because it is similar to one of the programming languages that I am used to, HTML.
 - Even though they have differences but I was able to use the little knowledge I gained from HTML with the knowledge I obtained from research.
 - But I still did not know where to start.
@@ -84,7 +84,7 @@ You can watch the mock video demo video[here](
 - With all the information from cheat sheets,linkedin learning,YouTube, and internet at large,I managed to come up with a CV with great structure and hierarchy. 
 
 
-## CHALLENGES
+### CHALLENGES
 - My Cv before has a two column structure but with Markdown, I faced a challenge when it comes to creating the exact structure.
 - I looked for videos on You Tube streaming, hoping that I would find guidance on how to create that layout, but I only got to learn how to create tables which did not help me with developing the layout I needed.
 - I then though usings tabs was going to work but when I checked the review of the code, all the information was on the left hand side was
@@ -93,7 +93,7 @@ messed up but the order of my sub headings.
 
 
 ## REFLECTION ON THE MOCK VIDEO
-## RECORDING MOCK VIDEO
+### RECORDING MOCK VIDEO
 - We were told to record a video that does not exceed 25MB.
 - On the video we were instructed to choose 4 interview question that a person will answer.
 - While I was recording, I could not structure ny sentences and I was struggling to use the right words.
@@ -101,7 +101,7 @@ messed up but the order of my sub headings.
 - I kept on stuttering because of fear as the experience felt real and reminded me of when I was once in a interview.
 - But with practice and dedication, I managed to create a video that is perfect and that does not exceed the size limit.
 
-## UPLOADING VIDEO
+### UPLOADING VIDEO
 - One of the biggest challenges I faced uploading the video from my local computer to myGit hub.
 - Before, when we were told by our lecturer to make the video and submit it, the instruction we were given was that the size of the video must not exceed 25MB.
 - Back then my video did not exceed the required size and I managed to answer the total amount of questions that were required.
@@ -111,19 +111,19 @@ messed up but the order of my sub headings.
 - I then tried to compress it again and upload again.
 
 ## LEARNING PROOF
-## LinkedIn Learning Certificate
+### LinkedIn Learning Certificate
 - You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity.pdf)
   ![Markdown Certification](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/CertificateOfCompletion_Learning%20Markdown%20Formatting%20Text%20without%20the%20Complexity_page-0001.jpg)
   
-## LinkedIn Learning Video
+### LinkedIn Learning Video
 - You can watch the markdown video from Linked in[here](https://www.linkedin.com/learning/learning-markdown-formatting-text-without-the-complexity/using-html-and-css-in-markdown?autoSkip=true&resume=false&u=2256146)
 ![Learning Markdown Formatting Text Without Complexity](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
 - To view learning screenshorts,please click [here](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
-## MARKDOWN WEBSITE
+### MARKDOWN WEBSITE
 - To visit the Markdown Website[here](https://www.markdowntools.io/cheat-sheet#links)
 ![Pictures of the cheatsheet](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-20%20020655.png)
 
-## YouTube Markdown Video
+### YouTube Markdown Video
 - You can watch the markdown video from You Tube [here](https://youtu.be/iadzYtX4ERU?si=TqucPsEHWaX1_mM0)
   ![Fastest way to embed YouTube video in Readme on Git](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-20%20012537.png)
 
