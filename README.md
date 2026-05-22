@@ -82,7 +82,8 @@ To watch my video on You tube click [here](https://youtube.com/shorts/qxsUnSy0bR
 - I then decided to started by reading the cheat sheet ,we have received from our study guides on blackboard, but still I did not obtain as much knowledge and guidelines on where I should start.
 - I used the linkedIn learning platform for seeking guidance on where to start designing a cv and how start.
 - I gained knowledge on linkedin learning on how to write headings, semi-headings,lists, and using emoijs from github and implementing that knowledge was not as difficult as I though it would be.
-- With all the information from cheat sheets,linkedin learning,YouTube, and internet at large,I managed to come up with a CV with great structure and hierarchy. 
+- With all the information from cheat sheets,linkedin learning,YouTube, and internet at large,I managed to come up with a CV with great structure and hierarchy.
+- At the end of my learning journey, I received a LinkedIn Certification from the video I was watching on LinkedIn Learning 
 
 
 **Challenges faced**
