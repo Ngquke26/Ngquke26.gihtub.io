@@ -71,9 +71,7 @@
 
  ## INTERVIEW MOCK VIDEO
 
-You can watch the mock video demo video[here](
- https://github.com/Ngquke26/Ngquke26.gihtub.io/commit/455b9475293aecedf0b25a9040b0aa88c3278463#diff-f5775dd18e5944d210db33efb0f5d50a0291f8da91f3b6aff2cf14f1262da770)
- ![Interview Mock Video](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/CV%20and%20Interview%20Video%20in%20Markdown%20Language/Screenshot%202026-04-20%20015145.png)
+![Interview Mock Video]( https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/CV%20and%20Interview%20Video%20in%20Markdown%20Language/Screenshot%202026-05-22%20181436.png)
 To watch my video on You tube click [here](https://youtube.com/shorts/qxsUnSy0bRI?feature=share)
  
  ## REFLECTION ON WRITING CV 
@@ -109,9 +107,14 @@ messed up but the order of my sub headings.
 - Before, when we were told by our lecturer to make the video and submit it, the instruction we were given was that the size of the video must not exceed 25MB.
 - Back then my video did not exceed the required size and I managed to answer the total amount of questions that were required.
 - Now, when I was uploading the video on github, it did not allow me to upload a video of that size.
-- I had to find ways of compressing a video so that it can have small size that github would allow.
+- I had to compress the video using the Movie clip software  so that it can have small size that github would allow.
 - When I managed to upload the video, it was not playing because of the size.
-- I then tried to compress it again and upload again.
+- I had to find another alterative way of uploading the video.
+- I created a channel on you tube using the account I always had.
+- I tried to upload the original video on You tube but because of the size,I was unable to upload it.
+- I then took the compressed video I was trying to upload on github, and tried to upload it on you tube again.
+- Because I did not want just anyobe to see and access the video, I uploaded it as unlisted so that it can only be accessed by people who have the link to my video.
+- The video was uploaded successfully then I finally managed to embed the link so that it can be accessible through the gitub pages
 
 ## LEARNING PROOF
 **LinkedIn Learning Certificate**
