@@ -128,8 +128,9 @@ messed up but the order of my sub headings.
 
   
 **Markdown webiste**
+![Pictures of the cheatsheet](Markdown Language/Proof/Screenshot 2026-04-20 020655.png)
 - To visit the Markdown Website[here](https://www.markdowntools.io/cheat-sheet#links)
-![Pictures of the cheatsheet](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-20%20020655.png)
+
 
 **YouTube Markdown Video**
  ![Fastest way to embed YouTube video in Readme on Git](Markdown Language/Proof/Screenshot 2026-04-20 020655.png)
