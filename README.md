@@ -77,7 +77,8 @@
 ![Interview Mock Video](CV and Interview Video in Markdown Language/Screenshot 2026-05-22 181436.png)
 To watch my video on You tube click [here](https://youtube.com/shorts/qxsUnSy0bRI?feature=share)
  
- ## REFLECTION ON WRITING CV 
+## REFLECTION ON WRITING CV
+
 **Learning journey**
 - Learning a markdown language was not a big  challenge to me because it is similar to one of the programming languages that I am used to, HTML.
 - Even though they have differences but I was able to use the little knowledge I gained from HTML with the knowledge I obtained from research.
