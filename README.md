@@ -72,6 +72,7 @@
  ## INTERVIEW MOCK VIDEO
 
 ![Interview Mock Video]( https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/CV%20and%20Interview%20Video%20in%20Markdown%20Language/Screenshot%202026-05-22%20181436.png)
+![Interview Mock Video](CV and Interview Video in Markdown Language/Screenshot 2026-05-22 181436.png)
 To watch my video on You tube click [here](https://youtube.com/shorts/qxsUnSy0bRI?feature=share)
  
  ## REFLECTION ON WRITING CV 
