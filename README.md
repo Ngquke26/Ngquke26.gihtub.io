@@ -48,11 +48,11 @@
 - Handling and uploading supporting documents.
 
 ## PROJECTS
-- Masakhumzi Community Project Website
-- Personal portfolio Website
-- Student Learn Hub Application
-- Empiras Learner Dashboard Website
-- Student Enrollment Application
+- Masakhumzi Community Project Website - HTML, JavaScript, and CSS
+- Personal portfolio Website - HTML, JavaScript, and CSS
+- Student Learn Hub Application - Java
+- Empiras Learner Dashboard Website - HTML, JavaScript, and CSS
+- Student Enrollment Application - Java 
   
                                                                                                      
 ## REFERENCES 
