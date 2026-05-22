@@ -1,4 +1,5 @@
-## ATHINI NGQUKE
+
+## ATHINI NGQUKE PORTFOLIO
 
   <p align= "right">
   📞:+27 744 665 609 <br>
@@ -98,6 +99,7 @@ messed up but the order of my sub headings.
 
 
 ## REFLECTION ON THE MOCK VIDEO
+
 **Recording interview mock video**
 - We were told to record a video that does not exceed 25MB.
 - On the video we were instructed to choose 4 interview question that a person will answer.
@@ -118,12 +120,14 @@ messed up but the order of my sub headings.
 - I tried to upload the original video on You tube but because of the size,I was unable to upload it.
 - I then took the compressed video I was trying to upload on github, and tried to upload it on you tube again.
 - Because I did not want just anyobe to see and access the video, I uploaded it as unlisted so that it can only be accessed by people who have the link to my video.
-- The video was uploaded successfully then I finally managed to embed the link so that it can be accessible through the gitub pages
+- The video was uploaded successfully then I finally managed to embed the link so that it can be accessible through the gitub pages.
 
+  
 ## LEARNING PROOF
+
 **LinkedIn Learning Certificate**
 
-  - You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity_page-0001.jpg)
+ ![LinkedIn Markdown Certificate](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity_page-0001.jpg)
   
 **LinkedIn Learning Video**
 ![Learning Markdown Formatting Text Without Complexity](Markdown Language/Proof/Screenshot 2026-04-19 034913.png)
