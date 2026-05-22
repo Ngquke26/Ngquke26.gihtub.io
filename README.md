@@ -123,9 +123,9 @@ messed up but the order of my sub headings.
   - You can click to view [here](Markdown Language/Proof/CertificateOfCompletion_Learning Markdown Formatting Text without the Complexity.pdf)
   
 **LinkedIn Learning Video**
+![Learning Markdown Formatting Text Without Complexity](Markdown Language/Proof/Screenshot 2026-04-19 034913.png)
 - You can watch the markdown video from Linked in[here](https://www.linkedin.com/learning/learning-markdown-formatting-text-without-the-complexity/using-html-and-css-in-markdown?autoSkip=true&resume=false&u=2256146)
-![Learning Markdown Formatting Text Without Complexity](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
-- To view learning screenshorts,please click [here](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-19%20034913.png)
+
   
 **Markdown webiste**
 - To visit the Markdown Website[here](https://www.markdowntools.io/cheat-sheet#links)
