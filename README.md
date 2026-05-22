@@ -132,9 +132,9 @@ messed up but the order of my sub headings.
 ![Pictures of the cheatsheet](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-20%20020655.png)
 
 **YouTube Markdown Video**
+ ![Fastest way to embed YouTube video in Readme on Git](Markdown Language/Proof/Screenshot 2026-04-20 020655.png)
 - You can watch the markdown video from You Tube [here](https://youtu.be/iadzYtX4ERU?si=TqucPsEHWaX1_mM0)
-  ![Fastest way to embed YouTube video in Readme on Git](https://github.com/Ngquke26/Ngquke26.gihtub.io/blob/main/Markdown%20Language/Proof/Screenshot%202026-04-20%20012537.png)
-
+ 
  
 
  
