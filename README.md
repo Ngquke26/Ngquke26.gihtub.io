@@ -1,14 +1,13 @@
-  # ATHINI NGQUKE
+  # ATHINI NGQUKE <br>
   <p align= "right">
   📞:+27 744 665 609 <br>
   📧:222352302@mycput.ac.za <br>
   🏠:Woostock, Cape Town <br>
-  💼:http//github.com/Ngquke26
-                                                                                                   
+  💼:http//github.com/Ngquke26                                                                                                 
 </p>
+
 <p>I am an active, and goal-driven third year student ICT, and specializing in Application Development. I am currently seeking for a Work Intergrated Learning(WIL) opportunity, where I will be applying my programming skills in solving real-life problems, with the goal of gaining more knownledge and experience, which will help me in the future to grow, and become a better experienced software developer.
 My Technical skills are Java, Python, HTML, Javascript, CSS, and MySQL.</p>
-
 
 ## TECHNICAL SKILLS
 - Java
@@ -18,7 +17,6 @@ My Technical skills are Java, Python, HTML, Javascript, CSS, and MySQL.</p>
 - CSS
 - MySQL
 
-  
 ## EDUCATION
 
 ### National Senior Certificate (NSC) - Grade 12
