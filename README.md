@@ -177,8 +177,16 @@ messed up but the order of my sub headings.
 
  **Agile Logbook**
  ![Proof of Agile Logbook](Agile Logbook/logbook.jpeg)
- - You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
-
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
  **Reflection on Agile Logbook**
  - An agile logbook is a personal notebook that development teams use to record daily standups.
  - Each team member list what they did the previous day, what they are looking for to on the present day, and the challenges and risks.
