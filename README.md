@@ -160,7 +160,8 @@ messed up but the order of my sub headings.
  - In the beginning of the project some people might not see the importance of this document, but in the middle of a project when confusion and conflict strikes that is when they will start to see the importance of this document because it solves a lot of challenges on it's own.
 
  **Product and Sprint backlog**
- ![Proof of Product & Sprint backlog](link)
+ ![Proof of Product & Sprint backlog](Agile Logbook/Productbacklog.jpeg)
+ - You can view the product backlog on Trello on this link [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
 
  **Product Backlog Reflection**
  - A product backlog is a living document that can always be updated and modified. It has the list all the activities and tasks that are undone, incomplete and have been completed by the team.
