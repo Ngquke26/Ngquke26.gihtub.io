@@ -156,22 +156,31 @@ messed up but the order of my sub headings.
  - When team is experiencing challenges of unacceptable behaviours from certain team members, the agile team charter is a great tool to reduce conflict and to remind the team members about the rules and acceptable behaviours that are expected from each member.
  - In the beginning of the project some people might not see the importance of this document, but in the middle of a project when confusion and conflict strikes that is when they will start to see the importance of this document because it solves a lot of challenges on it's own.
 
- **Product Backlog**
- ![Proof of Product Backlog](link)
+ **Product and Sprint backlog**
+ ![Proof of Product & Sprint backlog](link)
 
  **Product Backlog Reflection**
- - A product backlog is a living document that can always be updated and modified. It entails all the activities that are undone, incomplete and have been completed by the team.
-   
-
- **User Stories**
- ![Proof of User Stories](link)
-
- **Reflection on User Stories**
+ - A product backlog is a living document that can always be updated and modified. It has the list all the activities and tasks that are undone, incomplete and have been completed by the team.
+ - This document has a role of guiding the development team throughout the project lifecycle to ensure that the need of the stakeholders, customers and that all the requirements are met and the team does not develop scope creep.
+ - There are a lot of challenges that I personally encountered with when I was working on the product backlog on Trello as instructed by my supervisor.
+ - In the beginning, I was not sure what a product backlog is, what must be included, how to structure it, and it's entire purpose.
+ - The main confusion was rooted on the fact that we are a group of six members, we have different roles on the team, we are sometimes working on different tasks and activities, so I could not understand how it must be structured or designed.
+ - Thing got worse when I also heard that we need to include a user story.
+ - While I was still confused, I had created all the sprints for the week in one window, I had separated the tasks of the members on the sprints, some were included and some were excluded from some sprints, it was a complete disaster.
+ - To resolve the confusion, I tried to understand what a sprint is, I was reading more about product backlog and user stories, the purpose of having them, and the feedback from my supervisor on how it must be structured helped in bringing some light.
+ - When I understood all the above, I then created windows where each sprint had about four days, each day had an activity for that day, the tasks of all the members, the user story and a starting and ending date of each sprint. This helped me to have the product backlog an user stories with the required structure.
+ - The process was not easy, it was time-consuming but it was worth it.
 
  **Agile Logbook**
  ![Proof of Agile Logbook](link)
 
  **Reflection on Agile Logbook**
+ - An agile logbook is a personal notebook that development teams use to record daily standups.
+ - Each team member list what they did the previous day, what they are looking for to on the present day, and the challenges and risks.
+ - Writing on the agile log book was not a very difficult tasks to do, because of the knowledge and existence of the product and sprint backlog that is providing guidance of what I have done, which sprint I am on, and the tasks that come with the sprint in a particular day.
+ - During the project lifecycle, one of the challenges I was facing was being stuck on a backend task I was doing and not knowing how to continue, but because of having the logbook, I used to list all the challenges I faced during the day, so that I do not forget them, and that used to help during daily standups in managing to bring the issue to the team so that we can find a solution as a team. 
+ - I learned that properly designing the product backlog makes the daily standups to be very interested.
+ - From the agile logbook and daily standups, I learned about the importance of being honest to yourself and to your team members about the challenges you are facing on the project, and that being honest is not a sign of weakness but another way of getting help and solving the challenges to avoid slowing the team down.
  
 
  
