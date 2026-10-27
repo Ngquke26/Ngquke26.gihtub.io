@@ -187,7 +187,7 @@ You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Lo
 You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template -28-07-26 (1) (1) (1).pdf)
 You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template -28-09-2026(AN).pdf)
 You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template 04-08-2026 (1).pdf)
-You can view more log books on this folder [here]()
+You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template 14-09-2026(AN).pdf)
 
  **Reflection on Agile Logbook**
  - An agile logbook is a personal notebook that development teams use to record daily standups.
