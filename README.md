@@ -175,7 +175,7 @@ messed up but the order of my sub headings.
  - The process was not easy, it was time-consuming but it was worth it.
 
  **Agile Logbook**
- ![Proof of Agile Logbook](link)
+ ![Proof of Agile Logbook](Agile Logbook/WhatsApp Image 2026-10-28 at 00.40.34.jpeg)
 
  **Reflection on Agile Logbook**
  - An agile logbook is a personal notebook that development teams use to record daily standups.
