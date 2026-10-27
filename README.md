@@ -175,7 +175,7 @@ messed up but the order of my sub headings.
  - The process was not easy, it was time-consuming but it was worth it.
 
  **Agile Logbook**
- ![Proof of Agile Logbook](Agile Logbook/WhatsApp Image 2026-10-28 at 00.40.34.jpeg)
+ ![Proof of Agile Logbook](Agile Logbook/logbook.jpeg)
  - You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
 
  **Reflection on Agile Logbook**
