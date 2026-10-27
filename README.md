@@ -161,7 +161,7 @@ messed up but the order of my sub headings.
 
  **Product and Sprint backlog**
  ![Proof of Product & Sprint backlog](Agile Logbook/Productbacklog.jpeg)
- - You can view the product backlog on Trello on this link [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+ - You can view the product backlog on Trello on this link [here](https://trello.com/b/jMjTyQX1/item-hive-%F0%9F%9B%92)
 
  **Product Backlog Reflection**
  - A product backlog is a living document that can always be updated and modified. It has the list all the activities and tasks that are undone, incomplete and have been completed by the team.
