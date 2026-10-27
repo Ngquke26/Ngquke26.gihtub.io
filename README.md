@@ -160,6 +160,8 @@ messed up but the order of my sub headings.
  ![Proof of Product Backlog](link)
 
  **Product Backlog Reflection**
+ - A product backlog is a living document that can always be updated and modified. It entails all the activities that are undone, incomplete and have been completed by the team.
+   
 
  **User Stories**
  ![Proof of User Stories](link)
