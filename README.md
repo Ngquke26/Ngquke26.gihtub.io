@@ -176,7 +176,7 @@ messed up but the order of my sub headings.
 
  **Agile Logbook**
  ![Proof of Agile Logbook](Agile Logbook/WhatsApp Image 2026-10-28 at 00.40.34.jpeg)
- - You can view more log books on this folder [here](Agile Logbook)
+ - You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
 
  **Reflection on Agile Logbook**
  - An agile logbook is a personal notebook that development teams use to record daily standups.
