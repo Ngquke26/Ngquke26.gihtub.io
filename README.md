@@ -150,10 +150,13 @@ messed up but the order of my sub headings.
  ![Proof of Agile Team Charter](link)
 
  **Agile Team Charter Reflection**
- - An Agile Team Charter is a document that is written for an agile project, this document has all the roles of the team members, the objective of the project, mission and vision statements, values of the team and the rules and acceptable behaviours for all the team members.
- - While were designing this document one of the first challenges that we faced as a group was deciding who are the right candidates for the roles that exists on the team.
- - To solve this problem, I figured out that checking the strengths and responsibilities that each member has is crucial in solving this challenge for the role allocation because when you know about the strengths and weaknesses of each individual, you can easily decdide what role to assign to that individual that they can master and you can also  pair that person with someone who has a strength in that particular field so that they can learn from each other.
- - When team is experiencing challenges of unacceptable behaviours from certain team members, the agile team charter is a great tool to reduce conflict and to remind the team members about the rules and acceptable behaviours that are expected from each member.
+ - An Agile Team Charter is a document that is written for an agile project, this document has all the roles of the team members, the objective of the project, values of the team and the rules and acceptable behaviours for all the team members.
+ - While were designing this document one of the first challenges that I faced, was knowing which role is the best for me with the tasks it contains.
+ - To solve this problem, I decide to measure the strengths and weaknesses that I have. This step is crucial in solving this challenge for the role allocation because when you know about your strengths and weaknesses, you can easily decide what role you will excel in.
+ - This can also assist the rest of the development team to properly decide which role is the best for you, and to ensure they can pair you with an individual that is has a strength in the field you have a weakness in so that you can learn from that team member.
+ - This does not only help one individual but the entire development team to have a culture of continuous learning, so that everyone can also use this opportunity to work on their weaknesses.
+ - It can also help the development team in satisfying the needs of the users and designing the best product.
+ - When team is experiencing challenges of unacceptable behaviours from certain team members, the agile team charter is a great tool for conflict resolution using the rules, and to remind the team members about the acceptable behaviours that are expected from each member.
  - In the beginning of the project some people might not see the importance of this document, but in the middle of a project when confusion and conflict strikes that is when they will start to see the importance of this document because it solves a lot of challenges on it's own.
 
  **Product and Sprint backlog**
