@@ -179,21 +179,21 @@ messed up but the order of my sub headings.
  - The process was not easy, it was time-consuming but it was worth it.
 
 **Proof of Learning Product & Sprint backlog**
-![Proof of Learning Product & Sprint backlog](Proof of learning/agile charter.png)
+![Proof of Learning Product & Sprint backlog](Proof of learning/Productvssprint backlog.png)
 
  **Agile Logbook**
  ![Proof of Agile Logbook](Agile Logbook/logbook.jpeg)
-You can view more log books on this folder [here](Agile Logbook/Agile Logbook  -12-10-26 (AN).pdf)
-You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 19-10-2026(AN).pdf)
-You can view more log books on this folder [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template - 07-05-26 (1).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template -05-10-2026(AN).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template -21-05-26 (1) (1).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template -21-09-2026(AN).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template -28-07-26 (1) (1) (1).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template -28-09-2026(AN).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template 04-08-2026 (1).pdf)
-You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Logbook Template 14-09-2026(AN).pdf)
+- Logbook 1 [here](Agile Logbook/Agile Logbook  -12-10-26 (AN).pdf)
+- Logbook 2 [here](Agile Logbook/Item Hive Agile Logbook 19-10-2026(AN).pdf)
+- Logbook 3 [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+- Logbook 4 [here](Agile Logbook/PRP37XS Agile Logbook Template - 07-05-26 (1).pdf)
+- Logbook 5 [here](Agile Logbook/PRP37XS Agile Logbook Template -05-10-2026(AN).pdf)
+- Logbook 6 [here](Agile Logbook/PRP37XS Agile Logbook Template -21-05-26 (1) (1).pdf)
+- Logbook 7 [here](Agile Logbook/PRP37XS Agile Logbook Template -21-09-2026(AN).pdf)
+- Logbook 8 [here](Agile Logbook/PRP37XS Agile Logbook Template -28-07-26 (1) (1) (1).pdf)
+- Logbook 9 [here](Agile Logbook/PRP37XS Agile Logbook Template -28-09-2026(AN).pdf)
+- Logbook 10 [here](Agile Logbook/PRP37XS Agile Logbook Template 04-08-2026 (1).pdf)
+- Logbook 11 [here](Agile Logbook/PRP37XS Agile Logbook Template 14-09-2026(AN).pdf)
 
  **Reflection on Agile Logbook**
  - An agile logbook is a personal notebook that development teams use to record daily standups.
