@@ -148,6 +148,7 @@ messed up but the order of my sub headings.
 
  **Agile Team Charter**
  ![Proof of Agile Team Charter](Agile Logbook/PRP AGILE CHARTER.pdf)
+- To view Agile Team Charter click [here] (Agile Logbook/PRP AGILE CHARTER.pdf)
 
  **Agile Team Charter Reflection**
  - An Agile Team Charter is a document that is written for an agile project, this document has all the roles of the team members, the objective of the project, values of the team and the rules and acceptable behaviours for all the team members.
@@ -185,17 +186,17 @@ messed up but the order of my sub headings.
   
  **Agile Logbook**
  ![Proof of Agile Logbook](Agile Logbook/logbook.jpeg)
-- Logbook 1 [here](Agile Logbook/Agile Logbook  -12-10-26 (AN).pdf)
-- Logbook 2 [here](Agile Logbook/Item Hive Agile Logbook 19-10-2026(AN).pdf)
-- Logbook 3 [here](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
-- Logbook 4 [here](Agile Logbook/PRP37XS Agile Logbook Template - 07-05-26 (1).pdf)
-- Logbook 5 [here](Agile Logbook/PRP37XS Agile Logbook Template -05-10-2026(AN).pdf)
-- Logbook 6 [here](Agile Logbook/PRP37XS Agile Logbook Template -21-05-26 (1) (1).pdf)
-- Logbook 7 [here](Agile Logbook/PRP37XS Agile Logbook Template -21-09-2026(AN).pdf)
-- Logbook 8 [here](Agile Logbook/PRP37XS Agile Logbook Template -28-07-26 (1) (1) (1).pdf)
-- Logbook 9 [here](Agile Logbook/PRP37XS Agile Logbook Template -28-09-2026(AN).pdf)
-- Logbook 10 [here](Agile Logbook/PRP37XS Agile Logbook Template 04-08-2026 (1).pdf)
-- Logbook 11 [here](Agile Logbook/PRP37XS Agile Logbook Template 14-09-2026(AN).pdf)
+- Logbook 1 [click here to view](Agile Logbook/Agile Logbook  -12-10-26 (AN).pdf)
+- Logbook 2 [click here to view](Agile Logbook/Item Hive Agile Logbook 19-10-2026(AN).pdf)
+- Logbook 3 [click here to view](Agile Logbook/Item Hive Agile Logbook 23-10-2026(AN).pdf)
+- Logbook 4 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template - 07-05-26 (1).pdf)
+- Logbook 5 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -05-10-2026(AN).pdf)
+- Logbook 6 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -21-05-26 (1) (1).pdf)
+- Logbook 7 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -21-09-2026(AN).pdf)
+- Logbook 8 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -28-07-26 (1) (1) (1).pdf)
+- Logbook 9 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -28-09-2026(AN).pdf)
+- Logbook 10 click here to view](Agile Logbook/PRP37XS Agile Logbook Template 04-08-2026 (1).pdf)
+- Logbook 11 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template 14-09-2026(AN).pdf)
 
  **Reflection on Agile Logbook**
  - An agile logbook is a personal notebook that development teams use to record daily standups.
