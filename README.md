@@ -159,6 +159,9 @@ messed up but the order of my sub headings.
  - When team is experiencing challenges of unacceptable behaviours from certain team members, the agile team charter is a great tool for conflict resolution using the rules, and to remind the team members about the acceptable behaviours that are expected from each member.
  - In the beginning of the project some people might not see the importance of this document, but in the middle of a project when confusion and conflict strikes that is when they will start to see the importance of this document because it solves a lot of challenges on it's own.
 
+**Proof of Learning Agile Team Charter**
+![Proof of Learning Team Charter](Proof of learning/agile charter.png)
+
  **Product and Sprint backlog**
  ![Proof of Product & Sprint backlog](Agile Logbook/Productbacklog.jpeg)
  - You can view the product backlog on Trello on this link [here](https://trello.com/b/jMjTyQX1/item-hive-%F0%9F%9B%92)
@@ -174,6 +177,9 @@ messed up but the order of my sub headings.
  - To resolve the confusion, I tried to understand what a sprint is, I was reading more about product backlog and user stories, the purpose of having them, and the feedback from my supervisor on how it must be structured helped in bringing some light.
  - When I understood all the above, I then created windows where each sprint had about four days, each day had an activity for that day, the tasks of all the members, the user story and a starting and ending date of each sprint. This helped me to have the product backlog an user stories with the required structure.
  - The process was not easy, it was time-consuming but it was worth it.
+
+**Proof of Learning Product & Sprint backlog**
+![Proof of Learning Product & Sprint backlog](Proof of learning/agile charter.png)
 
  **Agile Logbook**
  ![Proof of Agile Logbook](Agile Logbook/logbook.jpeg)
@@ -197,7 +203,8 @@ You can view more log books on this folder [here](Agile Logbook/PRP37XS Agile Lo
  - I learned that properly designing the product backlog makes the daily standups to be very interested.
  - From the agile logbook and daily standups, I learned about the importance of being honest to yourself and to your team members about the challenges you are facing on the project, and that being honest is not a sign of weakness but another way of getting help and solving the challenges to avoid slowing the team down.
  
-
+**Proof of Learning Agile Logbook**
+![Proof of Learning Agile Logbook](Proof of learning/agile charter.png)
  
      
 
