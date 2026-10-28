@@ -161,7 +161,8 @@ messed up but the order of my sub headings.
 
 **Proof of Learning Agile Team Charter**
 ![Proof of Learning Team Charter](Proof of learning/agile charter.png)
-- Click [here](https://www.rosemet.com/agile-project-charter/)
+- Click for more [here](https://www.rosemet.com/agile-project-charter/)
+  
  **Product and Sprint backlog**
  ![Proof of Product & Sprint backlog](Agile Logbook/Productbacklog.jpeg)
  - You can view the product backlog on Trello on this link [here](https://trello.com/b/jMjTyQX1/item-hive-%F0%9F%9B%92)
