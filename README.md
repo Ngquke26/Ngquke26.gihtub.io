@@ -204,7 +204,7 @@ messed up but the order of my sub headings.
  - From the agile logbook and daily standups, I learned about the importance of being honest to yourself and to your team members about the challenges you are facing on the project, and that being honest is not a sign of weakness but another way of getting help and solving the challenges to avoid slowing the team down.
  
 **Proof of Learning Agile Logbook**
-![Proof of Learning Agile Logbook](Proof of learning/agile charter.png)
+![Proof of Learning Agile Logbook](Proof of learning/Logbook research.png)
  
      
 
