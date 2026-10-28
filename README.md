@@ -161,7 +161,7 @@ messed up but the order of my sub headings.
 
 **Proof of Learning Agile Team Charter**
 ![Proof of Learning Team Charter](Proof of learning/agile charter.png)
-
+- Click [here](https://www.rosemet.com/agile-project-charter/)
  **Product and Sprint backlog**
  ![Proof of Product & Sprint backlog](Agile Logbook/Productbacklog.jpeg)
  - You can view the product backlog on Trello on this link [here](https://trello.com/b/jMjTyQX1/item-hive-%F0%9F%9B%92)
@@ -180,7 +180,8 @@ messed up but the order of my sub headings.
 
 **Proof of Learning Product & Sprint backlog**
 ![Proof of Learning Product & Sprint backlog](Proof of learning/Productvssprint backlog.png)
-
+- Click for proof [here](https://www.atlassian.com/agile/project-management/sprint-backlog-product-backlog)
+  
  **Agile Logbook**
  ![Proof of Agile Logbook](Agile Logbook/logbook.jpeg)
 - Logbook 1 [here](Agile Logbook/Agile Logbook  -12-10-26 (AN).pdf)
@@ -205,7 +206,7 @@ messed up but the order of my sub headings.
  
 **Proof of Learning Agile Logbook**
 ![Proof of Learning Agile Logbook](Proof of learning/Logbook research.png)
- 
+ - Click for proof [here](https://matrackinc.com/what-is-logbook/)
      
 
 
