@@ -148,7 +148,7 @@ messed up but the order of my sub headings.
 
  **Agile Team Charter**
  ![Proof of Agile Team Charter](Agile Logbook/PRP AGILE CHARTER.pdf)
-- To view Agile Team Charter click [here](Agile Logbook/PRP AGILE CHARTER.pdf)
+- To view Agile Team Charter [click here](Agile Logbook/PRP AGILE CHARTER.pdf)
 
  **Agile Team Charter Reflection**
  - An Agile Team Charter is a document that is written for an agile project, this document has all the roles of the team members, the objective of the project, values of the team and the rules and acceptable behaviours for all the team members.
@@ -195,7 +195,7 @@ messed up but the order of my sub headings.
 - Logbook 7 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -21-09-2026(AN).pdf)
 - Logbook 8 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -28-07-26 (1) (1) (1).pdf)
 - Logbook 9 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template -28-09-2026(AN).pdf)
-- Logbook 10 click here to view](Agile Logbook/PRP37XS Agile Logbook Template 04-08-2026 (1).pdf)
+- Logbook 10 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template 04-08-2026 (1).pdf)
 - Logbook 11 [click here to view](Agile Logbook/PRP37XS Agile Logbook Template 14-09-2026(AN).pdf)
 
  **Reflection on Agile Logbook**
