@@ -221,7 +221,7 @@ messed up but the order of my sub headings.
 - To view a document with the brand guide click[here]()
 
 **Business Case**
-- ![Presentation Deck]()
+- ![Presentation Deck](Agile Logbook/WhatsApp Image 2026-10-29 at 04.25.11 (2).jpeg)
 - To read more about our business click[here]()
 
 - ![Solution architecture](Agile Logbook/WhatsApp Image 2026-10-29 at 04.16.46 (1).jpeg)
