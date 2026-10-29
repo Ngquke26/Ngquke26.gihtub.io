@@ -229,6 +229,6 @@ messed up but the order of my sub headings.
 
 ## E-COMMERCE APPLICATION
 - ![ITEMHIVE]()
-- To view a deployed version of our application[click]()
+- To view a deployed version of our application[click](https://item-hive.vercel.app/)
 
 
