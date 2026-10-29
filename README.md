@@ -225,7 +225,7 @@ messed up but the order of my sub headings.
 - To read more about our business click[here](Agile Logbook/ITEM HIVE.pptx)
 
 - ![Solution architecture](Agile Logbook/WhatsApp Image 2026-10-29 at 04.16.46 (1).jpeg)
-- For a full document with the solution architecture click[here]()
+- For a full document with the solution architecture click[here](Agile Logbook/Solution Architecture.pdf)
 
 ## E-COMMERCE APPLICATION
 - ![ITEMHIVE]()
