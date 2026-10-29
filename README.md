@@ -209,6 +209,26 @@ messed up but the order of my sub headings.
 **Proof of Learning Agile Logbook**
 ![Proof of Learning Agile Logbook](Proof of learning/Logbook research.png)
  - Click for proof [here](https://matrackinc.com/what-is-logbook/)
-     
+
+
+## PROFESSIONAL BRANDING
+
+**Company Logo**
+- ![Logo]()
+
+**Brand guide**
+![Brand guide]()
+- To view a document with the brand guide click[here]()
+
+**Business Case**
+- ![Presentation Deck]()
+- To read more about our business click[here]()
+
+- ![Solution architecture](Agile Logbook/WhatsApp Image 2026-10-29 at 04.16.46 (1).jpeg)
+- For a full document with the solution architecture click[here]()
+
+## E-COMMERCE APPLICATION
+- ![ITEMHIVE]()
+- To view a deployed version of our application[click]()
 
 
