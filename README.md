@@ -228,7 +228,7 @@ messed up but the order of my sub headings.
 - For a full document with the solution architecture click[here](Agile Logbook/Solution Architecture.pdf)
 
 ## E-COMMERCE APPLICATION
-- ![ITEMHIVE]()
+- ![ITEMHIVE](Agile Logbook/IMG_6066.png)
 - To view a deployed version of our application[click](https://item-hive.vercel.app/)
 
 
