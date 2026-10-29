@@ -217,7 +217,7 @@ messed up but the order of my sub headings.
 - ![Logo](Agile Logbook/WhatsApp Image 2026-10-29 at 04.17.57.jpeg)
 
 **Brand guide**
-![Brand guide]()
+![Brand guide](Agile Logbook/WhatsApp Image 2026-10-29 at 04.25.12.jpeg)
 - To view a document with the brand guide click[here]()
 
 **Business Case**
